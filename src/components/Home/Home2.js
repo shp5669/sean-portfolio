@@ -7,7 +7,7 @@ import {
   AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -19,7 +19,8 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I graduated University of Technology Sydney, majoring in Information Technology.
+              I graduated University of Technology Sydney, majoring in
+              Information Technology.
               <br />
               <br />
               I fell in love with programming and I have at least learnt
@@ -27,18 +28,18 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Javascript, Python and C#. </b>
+                <b className="purple"> HTML, CSS and JavaScript. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are designing and building new &nbsp;
+              My field of Interest's are optimize the user interface and
+              experience of a &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products 
-                </b>
+                <b className="purple">website or web application.</b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+              Whenever possible, I also apply my passion for developing websites
               with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
@@ -75,7 +76,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-        
+
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/sean-park-73816a16b/"
@@ -94,6 +95,16 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://www.facebook.com/shp5669"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <FaFacebook />
                 </a>
               </li>
             </ul>

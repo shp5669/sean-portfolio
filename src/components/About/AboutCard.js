@@ -11,16 +11,22 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sean Park </span>
             <br />
             <br />
-            I'm a recent IT graduate from UTS with a passion for front-end development.
+            I'm a recent IT graduate from UTS with a passion for front-end
+            development.
             <br />
             <br />
-            My expertise lies in languages like JavaScript, Python, and C#, and technologies such as React and AWS. 
+            My expertise in front-end development is deeply rooted in my fluency
+            with <span className="purple">HTML, CSS, and JavaScript</span>,
+            complemented by a strong knowledge of{" "}
+            <span className="purple">React and Node.js.</span>
             <br />
             <br />
-            I've honed my skills through a hands-on internship and diverse academic projects.
+            I've honed my skills through a hands-on internship and diverse
+            academic projects.
             <br />
             <br />
-            Committed to creating seamless user experiences, I'm eager to contribute to innovative software solutions
+            Committed to creating seamless user experiences, I'm eager to
+            contribute to innovative software solutions
             <br />
             <br />
           </p>
@@ -32,7 +38,8 @@ function AboutCard() {
               <ImPointRight /> Skills: JavaScript, Python, C#, React, AWS.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Experience: Front End Developer internship at LUXit.
+              <ImPointRight /> Experience: Front End Developer internship at
+              LUXit.
             </li>
           </ul>
 
