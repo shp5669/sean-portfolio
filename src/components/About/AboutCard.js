@@ -16,9 +16,10 @@ function AboutCard() {
             <br />
             <br />
             My expertise in front-end development is deeply rooted in my fluency
-            with <span className="purple">HTML, CSS, and JavaScript</span>,
+            with <span className="purple">Javascript, Python and Java.</span>,
             complemented by a strong knowledge of{" "}
-            <span className="purple">React and Node.js.</span>
+            <span className="purple">React and Node.js. </span>
+            Also I've experience databases such as <span className="purple">Mysql, Mongodb</span>, and version control like <span className="purple">Git.</span>"
             <br />
             <br />
             I've honed my skills through a hands-on internship and diverse
