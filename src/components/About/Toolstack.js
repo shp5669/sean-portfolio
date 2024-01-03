@@ -8,7 +8,11 @@ import {
   SiJira,
   SiMacos,
   SiAzuredevops,
-  SiAmazonaws
+  SiAmazonaws,
+  SiCanva,
+  SiDocker,
+  SiAzurepipelines,
+  SiAdobephotoshop
 } from "react-icons/si";
 
 function Toolstack() {
@@ -29,6 +33,18 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiAmazonaws />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiCanva />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAzurepipelines />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobephotoshop />
       </Col>
     </Row>
   );
