@@ -11,6 +11,7 @@ import bitsOfCode from "../../Assets/Projects/blog.png";
 import restaurant from "../../Assets/Projects/RestaurantManagement.png";
 import convinience from "../../Assets/Projects/ConvinienceStore.png";
 import cryogenic from "../../Assets/Projects/CryogenicWiring.png";
+import todolist from "../../Assets/Projects/todolist.png";
 
 function Projects() {
   return (
@@ -54,6 +55,18 @@ function Projects() {
               description="Contribute to produce interactive web application for Simulating Cryogenic Wiring GUI with UTS clients.
               Build with JavaScript, React, Node.js, TypeScript, Tailwind"
               ghLink="https://code.research.uts.edu.au/dashboard/projects"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={todolist}
+              isBlog={false}
+              title="Todo List"
+              description="Interactive todo list.
+              Build with JavaScript, React"
+              ghLink="https://github.com/shp5669/todolist"
+              demoLink="https://shp5669.github.io/todolist/"
             />
           </Col>
         </Row>
