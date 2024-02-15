@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://shp5669.github.io/sean-portfolio/" target="_blank">seanpark.tech</a>
+  <a href="https://shp5669.github.io/sean-portfolio/" target="_blank">seanpark</a>
 </h2>
 
 <br/>
