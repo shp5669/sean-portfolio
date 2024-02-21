@@ -28,7 +28,13 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Javascript, Python and Java. </b>
+                <b className="purple"> HTML, CSS, Javascript/TypeScript, </b>
+              </i>
+              <br />
+              <br />
+              Also I've experience other languages such as
+              <i>
+                <b className="purple"> Python, C#, C++, and Swift. </b>
               </i>
               <br />
               <br />
@@ -40,16 +46,9 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing websites
-              with <b className="purple">Node.js</b> and
+              with Modern Javascript Library and Frameworks like{" "}
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Angular.js</b>
+                <b className="purple"> React.js, Node.js</b>
               </i>
             </p>
           </Col>

@@ -11,38 +11,31 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sean Park </span>
             <br />
             <br />
-            I'm a recent IT graduate from UTS with a passion for front-end
-            development.
+            I'm a recent IT graduate from UTS with a passion for{" "}
+            <span className="purple">front-end development.</span>
             <br />
             <br />
-            My expertise in front-end development is deeply rooted in my fluency
-            with <span className="purple">Javascript, Python and Java.</span>,
-            complemented by a strong knowledge of{" "}
-            <span className="purple">React and Node.js. </span>
-            Also I've experience databases such as <span className="purple">Mysql, Mongodb</span>, and version control like <span className="purple">Git.</span>"
+            My academic and professional journey has equipped me with a robust
+            foundation in languages not only limited to{" "}
+            <span className="purple">HTML, CSS, Javascript/TypeScript</span> but
+            also
+            <span className="purple"> Python, C#, C++, Java. </span>
             <br />
             <br />
-            I've honed my skills through a hands-on internship and diverse
-            academic projects.
+            My internship at LUXIT as a Frontend Software Engineer Intern, where
+            I developed and implemented{" "}
+            <span className="purple"> responsive user interface</span>, and my
+            participation in software engineering virtual experience programs,
+            have honed my skills in{" "}
+            <span className="purple">cloud computing, DevOps </span>
+            and
+            <span className="purple"> full-stack development.</span>
             <br />
-            <br />
-            Committed to creating seamless user experiences, I'm eager to
-            contribute to innovative software solutions
-            <br />
-            <br />
+            <br />I am currently looking for the role to work at the forefront
+            of <span className="purple">web or software development. </span>My
+            strengths in problem-solving, brainstorming, and a keen sense of
+            curiosity will make me a valuable asset to any team.
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> UTS Graduate: Information Technology degree.
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Skills: JavaScript, Python, C#, React, AWS.
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Experience: Front End Developer internship at
-              LUXit.
-            </li>
-          </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Stay Hungry Stay Foolish"{" "}
