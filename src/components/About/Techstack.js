@@ -46,14 +46,7 @@ function Techstack() {
         <SiCsharp />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiCplusplus />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiPython />
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
