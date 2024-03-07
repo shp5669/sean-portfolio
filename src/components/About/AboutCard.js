@@ -19,7 +19,7 @@ function AboutCard() {
             foundation in languages not only limited to{" "}
             <span className="purple">HTML, CSS, Javascript/TypeScript</span> but
             also
-            <span className="purple"> Python, C#, C++, Java. </span>
+            <span className="purple"> Python, C#, Swift. </span>
             <br />
             <br />
             My internship at LUXIT as a Frontend Software Engineer Intern, where

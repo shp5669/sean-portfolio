@@ -34,7 +34,7 @@ function Home2() {
               <br />
               Also I've experience other languages such as
               <i>
-                <b className="purple"> Python, C#, C++, and Swift. </b>
+                <b className="purple"> Python, C#, and Swift. </b>
               </i>
               <br />
               <br />
