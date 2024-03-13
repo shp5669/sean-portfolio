@@ -16,7 +16,7 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              Hello Everyone! I'm Sean Park.
             </h1>
             <p className="home-about-body">
               I graduated University of Technology Sydney, majoring in
@@ -32,9 +32,10 @@ function Home2() {
               </i>
               <br />
               <br />
-              Also I've experience other languages such as
+              Whenever possible, I also apply my passion for developing websites
+              with Modern Javascript Library and Frameworks like{" "}
               <i>
-                <b className="purple"> Python, C#, and Swift. </b>
+                <b className="purple"> React.js, Node.js</b>
               </i>
               <br />
               <br />
@@ -45,10 +46,9 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing websites
-              with Modern Javascript Library and Frameworks like{" "}
+              Also I've experience other languages such as
               <i>
-                <b className="purple"> React.js, Node.js</b>
+                <b className="purple"> Python, C#, and Swift. </b>
               </i>
             </p>
           </Col>

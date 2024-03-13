@@ -8,39 +8,42 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Sean Park </span>
+            Hello Everyone, I'm Sean Park.
             <br />
             <br />
             I'm a recent IT graduate from UTS with a passion for{" "}
             <span className="purple">front-end development.</span>
             <br />
+            <br />A University of Technology Sydney graduate, I have a strong
+            passion for front-end development, specializing in crafting engaging
+            user interfaces with{" "}
+            <span className="purple">
+              HTML, CSS, and JavaScript/TypeScript.
+            </span>{" "}
+            My proficiency in JavaScript libraries, especially{" "}
+            <span className="purple">React</span>, enables me to build dynamic,
+            responsive designs.
             <br />
-            My academic and professional journey has equipped me with a robust
-            foundation in languages not only limited to{" "}
-            <span className="purple">HTML, CSS, Javascript/TypeScript</span> but
-            also
-            <span className="purple"> Python, C#, Swift. </span>
+            <br />
+            On the back-end side, I'm knowledgeable in{" "}
+            <span className="purple">Python, C#, and Swift</span>, and have
+            experience with <span className="purple">Node.js</span>, which
+            allows for seamless front-end to back-end integration. I also bring
+            database knowledge, with a solid understanding of both{" "}
+            <span className="purple">SQL</span> and{" "}
+            <span className="purple">NoSQL</span> databases, ensuring data is
+            efficiently managed and accessed.
             <br />
             <br />
-            My internship at LUXIT as a Frontend Software Engineer Intern, where
-            I developed and implemented{" "}
-            <span className="purple"> responsive user interface</span>, and my
-            participation in software engineering virtual experience programs,
-            have honed my skills in{" "}
-            <span className="purple">cloud computing, DevOps </span>
-            and
-            <span className="purple"> full-stack development.</span>
-            <br />
-            <br />I am currently looking for the role to work at the forefront
-            of <span className="purple">web or software development. </span>My
-            strengths in problem-solving, brainstorming, and a keen sense of
-            curiosity will make me a valuable asset to any team.
+            I'm seeking opportunities to leverage my front-end mastery, back-end
+            understanding, and database knowledge to contribute to innovative
+            web or software development projects.
           </p>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Stay Hungry Stay Foolish"{" "}
+            "Alone we can do so little; together we can do so much."{" "}
           </p>
-          <footer className="blockquote-footer">Steve Jobs</footer>
+          <footer className="blockquote-footer">Helen Keller</footer>
         </blockquote>
       </Card.Body>
     </Card>
