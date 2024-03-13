@@ -35,9 +35,16 @@ function AboutCard() {
             efficiently managed and accessed.
             <br />
             <br />
-            I'm seeking opportunities to leverage my front-end mastery, back-end
-            understanding, and database knowledge to contribute to innovative
-            web or software development projects.
+            In addition to my technical skills, I am also proficient in using{" "}
+            <span className="purple">Git</span> and{" "}
+            <span className="purple">GitHub</span> for version control and
+            collaboration. This expertise allows me to effectively manage and
+            collaborate on projects, ensuring code integrity and facilitating
+            teamwork.
+            <br />
+            <br /> I'm seeking opportunities to leverage my front-end mastery,
+            back-end understanding, and database knowledge to contribute to
+            innovative web or software development projects.
           </p>
 
           <p style={{ color: "rgb(155 126 172)" }}>
