@@ -46,10 +46,6 @@ function Home2() {
               </i>
               <br />
               <br />
-              Also I've experience other languages such as
-              <i>
-                <b className="purple"> Python, C#, and Swift. </b>
-              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
