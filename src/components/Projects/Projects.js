@@ -27,7 +27,7 @@ function Projects() {
               imgPath={portfolio}
               isBlog={false}
               title="Sean's Portfolio"
-              description="My personal portfolio seanpark.tech which features some of my github projects as well as my resume and technical skills."
+              description="My personal portfolio which features some of my github projects as well as my resume and technical skills."
               ghLink="https://github.com/shp5669/sean-portfolio"
               demoLink="https://shp5669.github.io/sean-portfolio/"
             />
@@ -38,8 +38,7 @@ function Projects() {
               imgPath={todolist}
               isBlog={false}
               title="Todo List"
-              description="Interactive todo list.
-              Build with JavaScript, React"
+              description="This to-do list application is a dynamic, user-friendly web application developed using React.js, designed to help users manage their daily tasks efficiently."
               ghLink="https://github.com/shp5669/todolist"
               demoLink="https://shp5669.github.io/todolist/"
             />
@@ -52,8 +51,7 @@ function Projects() {
               imgPath={weatherapp}
               isBlog={false}
               title="Weather App"
-              description="Contribute to produce interactive web application for Simulating Cryogenic Wiring GUI with UTS clients.
-              Build with JavaScript, React, Node.js, TypeScript, Tailwind"
+              description="This Interactive, Simple Weather web application crafted using React.js, designed to offer users real-time weather updates for locations worldwide."
               ghLink="https://github.com/shp5669/WeatherApp"
               demoLink="https://shp5669.github.io/WeatherApp/"
             />
@@ -64,8 +62,7 @@ function Projects() {
               imgPath={calculator}
               isBlog={false}
               title="Calculator"
-              description="Created a store management system to facilitate efficient inventory tracking, sales charting, and managing employees for a retail store.
-              Build with C#, MSSQL"
+              description="Simple Calculator application built with HTML, CSS, JavaScript."
               ghLink="https://github.com/shp5669/calculator"
               demoLink="https://shp5669.github.io/calculator/"
             />
