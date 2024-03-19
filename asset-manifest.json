@@ -1,35 +1,32 @@
 {
   "files": {
     "main.css": "/sean-portfolio/static/css/main.12359ffc.css",
-    "main.js": "/sean-portfolio/static/js/main.2c7d4f31.js",
+    "main.js": "/sean-portfolio/static/js/main.d1ead68b.js",
     "static/js/415.4d6acbeb.chunk.js": "/sean-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/sean-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/RestaurantManagement.png": "/sean-portfolio/static/media/RestaurantManagement.5210cd2197ff03005d8b.png",
     "static/media/me.jpg": "/sean-portfolio/static/media/me.0b881067305777a11d52.jpg",
     "static/media/ConvinienceStore.png": "/sean-portfolio/static/media/ConvinienceStore.5f50fd612c794138179f.png",
-    "static/media/leaf.png": "/sean-portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/sean-portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/sean-portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/portfolio.png": "/sean-portfolio/static/media/portfolio.c4e380a6b3c56b6f86a3.png",
+    "static/media/todolist.png": "/sean-portfolio/static/media/todolist.37c5c31357cd0c12cd6f.png",
     "static/media/CryogenicWiring.png": "/sean-portfolio/static/media/CryogenicWiring.f497768908d81f8bc2f4.png",
-    "static/media/codeEditor.png": "/sean-portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/SanghyeonParkResume.pdf": "/sean-portfolio/static/media/SanghyeonParkResume.991814f13947b5059fbf.pdf",
-    "static/media/todolist.png": "/sean-portfolio/static/media/todolist.faffd8103dd0d602088b.png",
-    "static/media/blog.png": "/sean-portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/calculator.png": "/sean-portfolio/static/media/calculator.55800528f8de2d03cbf3.png",
     "static/media/home-main.svg": "/sean-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/sean-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/sean-portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/weatherapp.png": "/sean-portfolio/static/media/weatherapp.6c226f6e13c562c0a242.png",
     "static/media/home-bg.jpg": "/sean-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/sean-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/mylogo1.png": "/sean-portfolio/static/media/mylogo1.1869461adfca0d934194.png",
     "static/media/pre.svg": "/sean-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/sean-portfolio/index.html",
     "main.12359ffc.css.map": "/sean-portfolio/static/css/main.12359ffc.css.map",
-    "main.2c7d4f31.js.map": "/sean-portfolio/static/js/main.2c7d4f31.js.map",
+    "main.d1ead68b.js.map": "/sean-portfolio/static/js/main.d1ead68b.js.map",
     "415.4d6acbeb.chunk.js.map": "/sean-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/sean-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12359ffc.css",
-    "static/js/main.2c7d4f31.js"
+    "static/js/main.d1ead68b.js"
   ]
 }
