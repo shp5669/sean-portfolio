@@ -8,40 +8,37 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            I'm a recent IT graduate from UTS with a passion for{" "}
-            <span className="purple">front-end development.</span>
+            I'm a recent IT graduate from the University of Technology Sydney,
+            specializing in
+            <span className="purple"> Enterprise System Development</span>. I
+            have a strong passion for
+            <span className="purple"> software development</span>, including web
+            application development and system integration.
             <br />
-            <br />A University of Technology Sydney graduate, I have a strong
-            passion for front-end development, specializing in crafting engaging
-            user interfaces with{" "}
-            <span className="purple">
-              HTML, CSS, and JavaScript/TypeScript.
-            </span>{" "}
-            My proficiency in JavaScript libraries, especially{" "}
-            <span className="purple">React</span>, enables me to build dynamic,
-            responsive designs.
-            <br />
-            <br />
-            On the back-end side, I'm knowledgeable in{" "}
-            <span className="purple">Python, C#, and Swift</span>, and have
-            experience with <span className="purple">Node.js</span>, which
-            allows for seamless front-end to back-end integration. I also bring
-            database knowledge, with a solid understanding of both{" "}
-            <span className="purple">SQL</span> and{" "}
-            <span className="purple">NoSQL</span> databases, ensuring data is
-            efficiently managed and accessed.
+            <br />I am proficient in multiple programming languages, including
+            <span className="purple"> Python, JavaScript, Java, and C#</span>.
+            My expertise in
+            <span className="purple"> HTML, CSS, and TypeScript</span> allows me
+            to create dynamic and responsive user interfaces, particularly using
+            <span className="purple"> React</span>.
             <br />
             <br />
-            In addition to my technical skills, I am also proficient in using{" "}
-            <span className="purple">Git</span> and{" "}
-            <span className="purple">GitHub</span> for version control and
-            collaboration. This expertise allows me to effectively manage and
-            collaborate on projects, ensuring code integrity and facilitating
-            teamwork.
+            On the back-end, I have experience with
+            <span className="purple"> .NET, Django, Spring, and Node.js</span>,
+            facilitating seamless front-end to back-end integration.
+            Additionally, I am knowledgeable in
+            <span className="purple"> SQL and NoSQL</span> databases, including
+            MySQL, MSSQL, and MongoDB, ensuring efficient data management and
+            retrieval.
             <br />
-            <br /> I'm seeking opportunities to leverage my front-end mastery,
-            back-end understanding, and database knowledge to contribute to
-            innovative web or software development projects.
+            <br />I am proficient in using
+            <span className="purple"> Git</span> and
+            <span className="purple"> GitHub</span> for version control and
+            collaboration, ensuring code integrity and effective teamwork.
+            <br />
+            <br />I am eager to contribute to innovative projects and leverage
+            my skills in front-end and back-end development, as well as database
+            management, to create impactful software solutions.
           </p>
 
           <p style={{ color: "rgb(155 126 172)" }}>
