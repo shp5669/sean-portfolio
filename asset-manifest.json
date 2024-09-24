@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/sean-portfolio/static/css/main.12359ffc.css",
-    "main.js": "/sean-portfolio/static/js/main.1011f591.js",
+    "main.js": "/sean-portfolio/static/js/main.633fd0be.js",
     "static/js/415.4d6acbeb.chunk.js": "/sean-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/sean-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/RestaurantManagement.png": "/sean-portfolio/static/media/RestaurantManagement.5210cd2197ff03005d8b.png",
-    "static/media/me.jpg": "/sean-portfolio/static/media/me.0b881067305777a11d52.jpg",
     "static/media/ConvinienceStore.png": "/sean-portfolio/static/media/ConvinienceStore.5f50fd612c794138179f.png",
     "static/media/portfolio.png": "/sean-portfolio/static/media/portfolio.c4e380a6b3c56b6f86a3.png",
     "static/media/todolist.png": "/sean-portfolio/static/media/todolist.37c5c31357cd0c12cd6f.png",
@@ -21,12 +20,12 @@
     "static/media/pre.svg": "/sean-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/sean-portfolio/index.html",
     "main.12359ffc.css.map": "/sean-portfolio/static/css/main.12359ffc.css.map",
-    "main.1011f591.js.map": "/sean-portfolio/static/js/main.1011f591.js.map",
+    "main.633fd0be.js.map": "/sean-portfolio/static/js/main.633fd0be.js.map",
     "415.4d6acbeb.chunk.js.map": "/sean-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/sean-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12359ffc.css",
-    "static/js/main.1011f591.js"
+    "static/js/main.633fd0be.js"
   ]
 }
